@@ -2,7 +2,7 @@ package com.company;
 
 public class liderClass {
     void metodoLider(){
-        System.out.println("trabjando");
+        System.out.println("trabjando 2");
 
     }
 }
