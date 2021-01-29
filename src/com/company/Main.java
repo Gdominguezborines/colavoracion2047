@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
     //comienzo a programar
-        System.out.println("primera funcionalidad terminada");
+        System.out.println("fin de la funcionalidad ");
 
     }
 }
