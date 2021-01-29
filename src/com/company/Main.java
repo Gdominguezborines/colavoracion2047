@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.println("comienzo a programar");
+    //comienzo a programar
+        System.out.println("primera funcionalidad terminada");
 
     }
 }
